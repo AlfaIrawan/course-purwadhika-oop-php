@@ -4,9 +4,9 @@
  * Created by PhpStorm.
  * User: alfairawan
  * Date: 7/7/17
- * Time: 8:29 PM
+ * Time: 9:32 PM
  */
-class Contacts
+class Comment
 {
-    public $text;
+
 }
