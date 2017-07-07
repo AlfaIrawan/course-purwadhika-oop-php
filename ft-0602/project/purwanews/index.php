@@ -3,13 +3,13 @@
  * Created by PhpStorm.
  * User: alfairawan
  * Date: 7/7/17
- * Time: 9:35 PM
+ * Time: 9:38 PM
  */
 ?>
 <doctyp>
-<html>
+    <html>
     <head></head>
     <body>
-        <h1>Test</h1>
+    <h1>Home</h1>
     </body>
-</html>
+    </html>
