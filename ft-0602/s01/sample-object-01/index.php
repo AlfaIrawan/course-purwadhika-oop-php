@@ -5,6 +5,7 @@
      * Description: Sample Class and Properties
      */
     require "Car.php";
+    require "fuel.php";
 
 ?>
 
@@ -20,8 +21,22 @@
             <span>
                 <?php
 
-                    $car = new SampleObject01\Car();
-                    echo $car->fuelMax = 20;
+                $car = new FitTech\Login();
+                echo $car->fuelMax = 20;
+
+                echo $car->calculateFuel();
+
+                ?>
+            </span>
+            <span>lt</span>
+        </di>
+
+        <di>
+            <label>Fuel Min:</label>
+            <span>
+                <?php
+
+                    fuel();
 
                 ?>
             </span>

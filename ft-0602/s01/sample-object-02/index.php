@@ -19,7 +19,7 @@ require "Car.php";
         <di>
             <label>Serial Number:</label>
             <span>
-                <?php  echo $car->serialNumber = 576575; ?>
+                <?php  echo $car-> = 576575; ?>
             </span>
             <span>lt</span>
         </di>

@@ -6,15 +6,32 @@
  */
 
 /* Namespace */
-namespace SampleObject01 {
+namespace FitTech {
 
     /* Class */
 
-    class Car
+    class Login
     {
 
         /* Properties or Method */
         public $fuelMax;
+        public $fuelMin;
+        public $total;
+        private $value;
+        protected $value2;
+
+        public function calculateFuel() {
+
+
+            return 0;
+
+        }
+
+    }
+
+    class Brand
+    {
+
 
     }
 }
