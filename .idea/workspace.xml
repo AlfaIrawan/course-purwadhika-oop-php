@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbf74b02-b9a3-429d-b240-78fd00cb6534" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/class/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/class/OrderDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/class/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/class/OrderDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-get-01/class/Contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-get-01/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-get-02/class/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-get-02/class/OrderDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-get-02/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-set-01/class/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-set-02/class/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-set-02/class/OrderDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-01/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-02/class/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-02/class/OrderDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-02/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setmethod-01/class/Contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setmethod-01/class/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setmethod-01/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setmethod-02/class/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setmethod-02/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-01/class/Contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-02/class/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-02/class/OrderDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-02/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/.idea/kitchen_network.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/.idea/php.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Contacts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/FoodPortfolioContent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/HorekaContact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/JobExperience.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/home/index_food_blogger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/home/index_horeka.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/login/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/pdo/Db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/Comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/Db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/SignUp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/PN.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/PN1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/gambar1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/gambar2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/gambar3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/menu-primary-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/person1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/person2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/person3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/image/star_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/js/numeral.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/login/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/s02/sample-object-constructor-01.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/s02/sample-object-constructor-02.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/s02/sample-object-destructor-01.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ft-0602/s02/sample-object-destructor-02.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Comment.php" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/Contact.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Db.php" afterPath="$PROJECT_DIR$/ft-0602/pdo/Db.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Login.php" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-get-01/class/User.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/SignUp.php" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/class/Order.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Vacancies.php" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setmethod-02/class/OrderDetail.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/kitchen_network/home/index_chef.php" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/mysql/Db.php" afterPath="$PROJECT_DIR$/ft-0602/mysql/Db.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/admin/index.php" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-set-02/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/Contact.php" afterPath="$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-01/class/Contact.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/Iklan.php" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/User.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/Login.php" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-01/class/User.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/class/News.php" afterPath="$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-01/class/User.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/profile/index.php" afterPath="$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-01/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/project/purwanews/sign_up/index.php" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-set-01/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/Contact.php" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/class/Contact.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/index_contact.php" afterPath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/Payment.php" afterPath="$PROJECT_DIR$/ft-0602/s02/sample-object-set-01/class/Contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s02/sample-object-set-01/class/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-01/class/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-01/class/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderDetail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/class/OrderDetail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/class/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/Contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Order.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/class/Order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderDetail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/class/OrderDetail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alfa P. Irawan &lt;alfa.irawan@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-03.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-04.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-05.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-02.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-01.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-02/Car.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-03/Car.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/Payment.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s02/sample-object-constructor-02.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-01/fuel.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-02/index.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-01/Car.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-01/index.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s02/sample-object-constructor-01.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/mysql/Db.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/pdo/Db.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Comment.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Contacts.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/purwanews/login/index.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/purwanews/class/Comment.php" />
+        <option value="$PROJECT_DIR$/ft-0602/project/purwanews/index.php" />
+        <option value="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/Contact.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1.1" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="800" />
+    <option name="height" value="524" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ft-0602" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ft-0602" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s04" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ft-0602" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s03" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ft-0602" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s02" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course-purwadhika-oop-php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ft-0602" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ft-0602/s04" />
+      <recent name="$PROJECT_DIR$/ft-0602/s03" />
+      <recent name="$PROJECT_DIR$/ft-0602/s02" />
+      <recent name="$PROJECT_DIR$/ft-0602/project/purwanews/class" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ft-0602/s01/sample-object-class-02" />
+      <recent name="$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/class" />
+      <recent name="$PROJECT_DIR$/ft-0602" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ft-0602/s01/sample-object-01/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/course-purwadhika-oop-php/ft-0602/s01/sample-object-01/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ft-0602/s01/sample-object-02/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/course-purwadhika-oop-php/ft-0602/s01/sample-object-02/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.index.php (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php (1)" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.index.php (1)" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbf74b02-b9a3-429d-b240-78fd00cb6534" name="Default" comment="" />
+      <created>1497865020541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497865020541</updated>
+      <workItem from="1497865021736" duration="2492000" />
+      <workItem from="1497875775792" duration="1012000" />
+      <workItem from="1498028639179" duration="6618000" />
+      <workItem from="1498046110420" duration="2179000" />
+      <workItem from="1499083696636" duration="1853000" />
+      <workItem from="1499262504256" duration="838000" />
+      <workItem from="1499424887078" duration="584000" />
+      <workItem from="1499433131283" duration="1310000" />
+      <workItem from="1499434475711" duration="5526000" />
+      <workItem from="1499539611053" duration="499000" />
+      <workItem from="1499654223288" duration="1424000" />
+      <workItem from="1499851471821" duration="3941000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1497868910663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497868910663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update 20170620.1710">
+      <created>1498039830763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1498039830763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update 20170707.2013">
+      <created>1499433202657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499433202657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update 20170707.2035">
+      <created>1499434513765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1499434513765</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update 20170707.2138">
+      <created>1499438306216</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1499438306216</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update 20170707.2145">
+      <created>1499438746422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1499438746422</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update 20170707.2157">
+      <created>1499439480085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499439480085</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update 20170707.2200">
+      <created>1499439681122</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499439681122</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update 20170707.2200">
+      <created>1499440031913</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1499440031913</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="800" height="524" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4967033" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4967033" sideWeight="0.4875" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update 20170620.1710" />
+    <MESSAGE value="Update 20170707.2013" />
+    <MESSAGE value="Update 20170707.2035" />
+    <MESSAGE value="Update 20170707.2138" />
+    <MESSAGE value="Update 20170707.2145" />
+    <MESSAGE value="Update 20170707.2157" />
+    <MESSAGE value="Update 20170707.2200" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 20170707.2200" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-04.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-05.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-02.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-01.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-03/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-01/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-01/fuel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-01/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s02/sample-object-constructor-02.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-02/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/Db.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-02/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/mysql/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/pdo/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Comment.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Db.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Login.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/kitchen_network/login/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/kitchen_network/class/Contacts.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/Login.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/SignUp.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/News.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/Iklan.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/home/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/admin/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/login/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/profile/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/sign_up/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/Contact.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/Comment.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/index.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/project/purwanews/class/Db.php" />
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/Payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/class/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/class/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#92#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/class/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-02/class/OrderDetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/OrderDetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-class-01/class/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-01/class/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/class/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/class/OrderDetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s01/sample-object-method-02/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s02/sample-object-constructor-01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s02/sample-object-set-01/class/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s03/sample-object-inheritance-01/class/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft-0602/s04/sample-object-setproperty-01/class/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
